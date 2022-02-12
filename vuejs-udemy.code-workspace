@@ -1,11 +1,14 @@
 {
-	"folders": [
-		{
-			"path": "02-base-vue"
-		},
-		{
-			"path": "03-fundamentos"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "02-base-vue"
+        },
+        {
+            "path": "03-fundamentos"
+        },
+        {
+            "path": "04-pokemon-game"
+        }
+    ],
+    "settings": {}
 }
